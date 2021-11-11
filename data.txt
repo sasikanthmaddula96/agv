@@ -1,0 +1,60 @@
+xpath 
+waits
+helper functions for selenium defined in the project workspace
+pop up handling
+different locators
+how to write dynamic xpaths
+BDD
+window handles
+
+TestNG Framework.
+
+set property of selenium webdriver
+Page Object Model.
+Page Factory Framework.
+Selenium JSON wire protocol details.
+
+
+
+
+Locators
+**********
+ID
+Name
+Class
+Partial Link
+XPath
+CSS Selector
+Link Text
+
+Exceptions
+**************
+TimeOutException
+NoSuchElementException
+ElementNotVisibleException
+StaleElementException
+
+
+Interview expectations
+*************************
+Selenium
+xpaths and locators
+json and how to read data
+python
+pytest
+about S&P global
+data structures
+java 
+testing basics
+scrum and agile
+frameworks
+api theory
+api automation testing
+BDD
+cucumber
+testNG
+jenkins
+GIT/Bit bucket
+
+
+hash map usage
